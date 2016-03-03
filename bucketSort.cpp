@@ -1,9 +1,8 @@
 #include<iostream>
 #include<queue>
-
 using namespace std;
 
-//GLOBAL VARZ
+
 const int INPUT_SIZE = 20;
 const int BUCKET_K = 10;
 
